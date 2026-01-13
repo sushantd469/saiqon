@@ -1,0 +1,235 @@
+{
+  "hero": {
+    "titlePrefix": "High Performance",
+    "titleSuffix": "Server Hosting",
+    "description": "Powerful, fast, and reliable Minecraft, game, and VPS hosting with instant setup and enterprise-grade protection.",
+    "getStarted": "Get Started",
+    "getStartedFree": "Start for Free",
+
+    "instantSetup": "Instant Setup",
+    "instantSetupDesc": "Deploy your server instantly with one click. No waiting required.",
+
+    "ddosProtection": "Advanced DDoS Protection",
+    "ddosProtectionDesc": "Enterprise-level protection to keep your servers online 24/7.",
+
+    "uptime": "99.9% Uptime",
+    "uptimeDesc": "Stable infrastructure designed for maximum reliability.", 
+    "support": "24/7 Support", 
+    "supportDesc": "Expert help whenever you need it"
+  },
+
+  "banner": {
+    "limitedOffer": "Limited Time Offer: Save 10% on Game Server Hosting",
+    "promoCode": "ENDERCLOUD2.0"
+  },
+
+  "navbar": {
+    "home": "Home",
+    "gameHosting": "Game Hosting",
+    "minecraft": "Minecraft Hosting",
+    "vps": "VPS Hosting",
+    "webHosting": "Web Hosting",
+    "pricing": "Pricing",
+    "support": "Support",
+    "login": "Login",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "refundPolicy": "Refund Policy",
+    "knowledgebase": "Knowledge Base", 
+    "discord": "Discord Bot", 
+   "clientSpace": "CLIENT SPACE"
+  },
+
+  "pricingSection": {
+    "title": "Simple & Transparent",
+    "titleHighlight": "Pricing",
+    "description": "Choose a hosting plan that fits your needs. No hidden fees.",
+    "footerText": "Need a custom plan?",
+    "footerLinkText": "Contact Us"
+  },
+
+  "pricingPlans": {
+    "gameServers": {
+      "title": "Game Servers",
+      "description": "Optimized hosting for Minecraft and popular games.",
+      "features": {
+        "instantDeployment": "Instant Deployment",
+        "ddosProtection": "DDoS Protection",
+        "support247": "24/7 Support",
+        "customConfigurations": "Custom Configurations",
+        "modSupport": "Full Mod Support"
+      },
+      "buttonText": "View Plans"
+    },
+
+    "dbServers": {
+      "title": "Database Servers",
+      "description": "High-performance managed database hosting.",
+      "features": {
+        "bareMetalPerformance": "Bare Metal Performance",
+        "customHardware": "Custom Hardware",
+        "enterpriseSupport": "Enterprise Support",
+        "advancedSecurity": "Advanced Security",
+        "managedServices": "Fully Managed Services"
+      },
+      "buttonText": "View Plans"
+    },
+
+    "botHosting": {
+      "title": "Bot Hosting",
+      "description": "Reliable hosting for Discord and automation bots.",
+      "features": {
+        "ssdStorage": "SSD Storage",
+        "uptime": "99.9% Uptime",
+        "support247": "24/7 Support",
+        "freeSSL": "Free SSL",
+        "dailyBackups": "Daily Backups"
+      },
+      "buttonText": "Deploy Bot"
+    },
+
+    "vpsHosting": {
+      "title1": "Starter VPS",
+      "title2": "Advanced VPS",
+      "title3": "Pro VPS",
+      "description": "High-performance VPS hosting with full control.",
+      "features": {
+        "fullRootAccess": "Full Root Access",
+        "ssdStorage": "NVMe SSD Storage",
+        "uptime": "99.9% Uptime",
+        "multipleOS": "Multiple OS Support",
+        "backupIncluded": "Backup Included"
+      },
+      "buttonText": "Buy VPS"
+    }
+  },
+
+  "features": {
+    "badge": "Why Choose Us",
+    "title": "Powerful Features",
+    "subtitle": "Everything you need for reliable hosting",
+
+    "highPerformance": "High Performance",
+    "highPerformanceDesc": "Latest hardware optimized for maximum speed.",
+
+    "lowLatency": "Low Latency",
+    "lowLatencyDesc": "Ultra-low latency network for smooth gameplay.",
+
+    "advancedSecurity": "Advanced Security",
+    "advancedSecurityDesc": "Multiple security layers to protect your data.",
+
+    "autoRecovery": "Auto Recovery",
+    "autoRecoveryDesc": "Automatic recovery ensures minimal downtime.",
+
+    "fullControl": "Full Control",
+    "fullControlDesc": "Complete control over your servers.",
+
+    "resourceScaling": "Resource Scaling",
+    "resourceScalingDesc": "Scale resources anytime as your needs grow.",
+
+    "globalNetwork": "Global Network",
+    "globalNetworkDesc": "Servers located worldwide for best performance."
+    
+  },
+  "locations": {
+    "title": "Global Locations", 
+    "badge": "Global Infrastructure", 
+    "subtitle": " Strategically positioned servers worldwide for optimal performance and minimal latency"
+  }, 
+
+  "panelShowcase": {
+    "badge": "Control Panel",
+    "title": "Modern Control Panel",
+    "description": "Manage your servers easily using our powerful and intuitive panel."
+  },
+
+  "discordBanner": {
+    "title": "Join Our Discord",
+    "subtitle": "Community & Support",
+    "description": "Join our Discord server to get support, updates, and announcements."
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know",
+
+    "question1": "What games do you support?",
+    "answer1": "We support Minecraft (Java & Bedrock), Discord bots, VPS applications, and many other popular multiplayer servers. More games are added regularly.",
+
+    "question2": "Do you provide DDoS protection?",
+    "answer2": "Yes, all our services include advanced enterprise-grade DDoS protection to keep your servers secure and online 24/7.",
+
+    "question3": "Can I upgrade my plan later?",
+    "answer3": "Yes. You can upgrade or downgrade your plan at any time from the billing panel without losing data.",
+
+    "question4": "Do you offer refunds?",
+    "answer4": "Refunds are provided according to our refund policy. If you face any issues, contact our support team for help.",
+
+    "question5": "How fast is server setup?",
+    "answer5": "Server setup is instant. Your service is deployed automatically within seconds after payment."
+  },
+
+  "tools": {
+    "title": "Tools"
+  },
+  
+  "vps": {
+    "badge": "Cloud VPS", 
+    "title": " VPS Hosting Solutions", 
+    "description": "High-performance virtual private servers with full root access, SSD storage, and 24/7 support. Perfect for developers and businesses.", 
+    "step1": "1. Location", 
+    "step2": "2. CPU Type", 
+    "step3": "3. Choose Plan"
+  }, 
+
+   "common": {
+     "orderNow": "Order Now"
+   }, 
+   
+   "osSelection": {
+     "badge": "Operating Systems", 
+     "title": "Choose your OS", 
+     "description": "Select from a wide range of popular operating systems. All images are pre-configured and ready to deploy instantly on your VPS."
+   }, 
+   
+   "faq-vps": {
+     "title": "VPS Hosting FAQ", 
+     "subtitle": "Technical details regarding our high-performance Virtual Private Servers", 
+     "question1": "Do I get full Root access?",
+     "question2": "Can I use the VPS for hosting multiple game servers?", 
+     "question3": "Is the storage NVMe or SSD?", 
+     "question4": "Which Operating Systems can I install?", 
+     "question5": "What virtualization technology do you use?", 
+     "answer1": "Yes, every VPS comes with full administrative (Root/Administrator) access. You have total control over the operating system, software installations, and security configurations.", 
+     "answer2": "Yes! A VPS is perfect for power users who want to run multiple game instances, web servers, or databases simultaneously under a single dedicated environment.", 
+     "answer3": "Yes, we provide both NVMe and SSD storage tiers. Our NVMe plans offer industry-leading speeds for database-heavy applications, while our SSD plans provide reliable, cost-effective performance.", 
+     "answer4": "We offer a wide range of Linux distributions including Ubuntu, CentOS, and Debian. We also support Windows Server options for users who require a Windows environment.", 
+     "answer5": "We utilize KVM (Kernel-based Virtual Machine) and QEMU virtualization. This ensures that your resources are dedicated entirely to you and cannot be 'oversold,' providing stable, consistent, and hardware-level performance."
+   }, 
+   
+  "footer": {
+    "description": "AstroNodes provides reliable, high-performance game and VPS hosting with enterprise-grade security.",
+
+    "quickLinks": "Quick Links",
+    "gamePanel": "Game Panel",
+    "billingpanel": "Billing Panel",
+    "uptime": "Uptime Status",
+    "trustpilot": "Trustpilot",
+    "branding": "Branding",
+    "partners": "Partners",
+
+    "legal": "Legal",
+    "brandingguidelines": "Branding Guidelines",
+
+    "subdomain": "Free Subdomain",
+    "mcstatus": "Minecraft Status",
+    "motd": "MOTD Generator",
+
+    "contactUs": "Contact Us",
+    "email": "Email",
+    "phone": "Phone",
+    "gamepanel": "Game Panel",
+
+    "systemsOperational": "All Systems Operational"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "titlePrefix": "أداء عالي",
+    "titleSuffix": "استضافة الخوادم",
+    "description": "استضافة قوية وسريعة وموثوقة لـ Minecraft والألعاب وVPS مع إعداد فوري وحماية بمستوى المؤسسات.",
+    "getStarted": "ابدأ الآن",
+    "getStartedFree": "ابدأ مجانًا",
+
+    "instantSetup": "إعداد فوري",
+    "instantSetupDesc": "قم بنشر خادمك فورًا بنقرة واحدة بدون انتظار.",
+
+    "ddosProtection": "حماية DDoS متقدمة",
+    "ddosProtectionDesc": "حماية على مستوى المؤسسات للحفاظ على خوادمك متصلة 24/7.",
+
+    "uptime": "جاهزية 99.9%",
+    "uptimeDesc": "بنية تحتية مستقرة مصممة لأقصى موثوقية.",
+    "support": "دعم 24/7",
+    "supportDesc": "مساعدة خبراء في أي وقت تحتاجه"
+  },
+
+  "banner": {
+    "limitedOffer": "عرض لفترة محدودة: وفر 10٪ على استضافة خوادم الألعاب",
+    "promoCode": "ENDERCLOUD2.0"
+  },
+
+  "navbar": {
+    "home": "الرئيسية",
+    "gameHosting": "استضافة الألعاب",
+    "minecraft": "استضافة ماينكرافت",
+    "vps": "استضافة VPS",
+    "webHosting": "استضافة المواقع",
+    "pricing": "الأسعار",
+    "support": "الدعم",
+    "login": "تسجيل الدخول",
+    "termsOfService": "شروط الخدمة",
+    "privacyPolicy": "سياسة الخصوصية",
+    "refundPolicy": "سياسة الاسترجاع",
+    "knowledgebase": "قاعدة المعرفة",
+    "discord": "بوت ديسكورد",
+    "clientSpace": "منطقة العميل"
+  },
+
+  "pricingSection": {
+    "title": "بسيط وشفاف",
+    "titleHighlight": "الأسعار",
+    "description": "اختر خطة الاستضافة التي تناسب احتياجاتك بدون رسوم مخفية.",
+    "footerText": "تحتاج خطة مخصصة؟",
+    "footerLinkText": "تواصل معنا"
+  },
+
+  "pricingPlans": {
+    "gameServers": {
+      "title": "خوادم الألعاب",
+      "description": "استضافة محسّنة لـ Minecraft والألعاب الشهيرة.",
+      "features": {
+        "instantDeployment": "نشر فوري",
+        "ddosProtection": "حماية DDoS",
+        "support247": "دعم 24/7",
+        "customConfigurations": "إعدادات مخصصة",
+        "modSupport": "دعم كامل للمودات"
+      },
+      "buttonText": "عرض الخطط"
+    },
+
+    "dbServers": {
+      "title": "خوادم قواعد البيانات",
+      "description": "استضافة قواعد بيانات مُدارة عالية الأداء.",
+      "features": {
+        "bareMetalPerformance": "أداء Bare Metal",
+        "customHardware": "أجهزة مخصصة",
+        "enterpriseSupport": "دعم مؤسسي",
+        "advancedSecurity": "أمان متقدم",
+        "managedServices": "خدمات مُدارة بالكامل"
+      },
+      "buttonText": "عرض الخطط"
+    },
+
+    "botHosting": {
+      "title": "استضافة البوتات",
+      "description": "استضافة موثوقة لبوتات Discord والأتمتة.",
+      "features": {
+        "ssdStorage": "تخزين SSD",
+        "uptime": "جاهزية 99.9%",
+        "support247": "دعم 24/7",
+        "freeSSL": "SSL مجاني",
+        "dailyBackups": "نسخ احتياطي يومي"
+      },
+      "buttonText": "نشر البوت"
+    },
+
+    "vpsHosting": {
+      "title1": "VPS مبتدئ",
+      "title2": "VPS متقدم",
+      "title3": "VPS احترافي",
+      "description": "استضافة VPS عالية الأداء مع تحكم كامل.",
+      "features": {
+        "fullRootAccess": "وصول Root كامل",
+        "ssdStorage": "تخزين NVMe SSD",
+        "uptime": "جاهزية 99.9%",
+        "multipleOS": "دعم أنظمة تشغيل متعددة",
+        "backupIncluded": "نسخ احتياطي متضمن"
+      },
+      "buttonText": "شراء VPS"
+    }
+  },
+
+  "features": {
+    "badge": "لماذا تختارنا",
+    "title": "ميزات قوية",
+    "subtitle": "كل ما تحتاجه لاستضافة موثوقة",
+
+    "highPerformance": "أداء عالي",
+    "highPerformanceDesc": "أحدث العتاد لأقصى سرعة.",
+
+    "lowLatency": "زمن استجابة منخفض",
+    "lowLatencyDesc": "شبكة منخفضة التأخير لتجربة لعب سلسة.",
+
+    "advancedSecurity": "أمان متقدم",
+    "advancedSecurityDesc": "طبقات حماية متعددة لبياناتك.",
+
+    "autoRecovery": "استعادة تلقائية",
+    "autoRecoveryDesc": "استعادة تلقائية لتقليل وقت التوقف.",
+
+    "fullControl": "تحكم كامل",
+    "fullControlDesc": "تحكم كامل في خوادمك.",
+
+    "resourceScaling": "توسيع الموارد",
+    "resourceScalingDesc": "قم بتوسيع الموارد في أي وقت حسب الحاجة.",
+
+    "globalNetwork": "شبكة عالمية",
+    "globalNetworkDesc": "خوادم حول العالم لأفضل أداء."
+  },
+
+  "locations": {
+    "title": "مواقع عالمية",
+    "badge": "بنية تحتية عالمية",
+    "subtitle": "خوادم موزعة استراتيجيًا لأداء أفضل وأقل زمن استجابة"
+  },
+
+  "panelShowcase": {
+    "badge": "لوحة التحكم",
+    "title": "لوحة تحكم حديثة",
+    "description": "أدر خوادمك بسهولة باستخدام لوحتنا القوية والبديهية."
+  },
+
+  "discordBanner": {
+    "title": "انضم إلى Discord",
+    "subtitle": "المجتمع والدعم",
+    "description": "انضم إلى خادم Discord للحصول على الدعم والتحديثات والإعلانات."
+  },
+
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "subtitle": "كل ما تحتاج معرفته",
+
+    "question1": "ما الألعاب التي تدعمونها؟",
+    "answer1": "ندعم Minecraft (Java وBedrock)، وبوتات Discord، وتطبيقات VPS، والعديد من الخوادم الشائعة الأخرى.",
+
+    "question2": "هل توفرون حماية DDoS؟",
+    "answer2": "نعم، جميع خدماتنا تتضمن حماية DDoS متقدمة على مستوى المؤسسات.",
+
+    "question3": "هل يمكنني ترقية الخطة لاحقًا؟",
+    "answer3": "نعم، يمكنك ترقية أو تخفيض خطتك في أي وقت من لوحة الفوترة دون فقدان البيانات.",
+
+    "question4": "هل تقدمون استرداد الأموال؟",
+    "answer4": "يتم توفير الاسترداد وفقًا لسياسة الاسترجاع الخاصة بنا.",
+
+    "question5": "ما مدى سرعة إعداد الخادم؟",
+    "answer5": "يتم إعداد الخادم فورًا خلال ثوانٍ بعد الدفع."
+  },
+
+  "tools": {
+    "title": "الأدوات"
+  },
+
+  "footer": {
+    "description": "توفر AstroNodes استضافة ألعاب وVPS موثوقة وعالية الأداء مع أمان بمستوى المؤسسات.",
+
+    "quickLinks": "روابط سريعة",
+    "gamePanel": "لوحة الألعاب",
+    "billingpanel": "لوحة الفوترة",
+    "uptime": "حالة الجاهزية",
+    "trustpilot": "Trustpilot",
+    "branding": "العلامة التجارية",
+    "partners": "الشركاء",
+
+    "legal": "قانوني",
+    "brandingguidelines": "إرشادات العلامة التجارية",
+
+    "subdomain": "نطاق فرعي مجاني",
+    "mcstatus": "حالة Minecraft",
+    "motd": "مولد MOTD",
+
+    "contactUs": "اتصل بنا",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "gamepanel": "لوحة الألعاب",
+
+    "systemsOperational": "جميع الأنظمة تعمل"
+  }
+}

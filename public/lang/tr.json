@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "titlePrefix": "Yüksek Performanslı",
+    "titleSuffix": "Sunucu Barındırma",
+    "description": "Minecraft, oyun ve VPS için güçlü, hızlı ve güvenilir barındırma; anında kurulum ve kurumsal düzeyde koruma ile.",
+    "getStarted": "Başla",
+    "getStartedFree": "Ücretsiz Başla",
+
+    "instantSetup": "Anında Kurulum",
+    "instantSetupDesc": "Tek tıkla sunucunuzu anında kurun. Beklemeye gerek yok.",
+
+    "ddosProtection": "Gelişmiş DDoS Koruması",
+    "ddosProtectionDesc": "Sunucularınızı 7/24 çevrimiçi tutmak için kurumsal düzeyde koruma.",
+
+    "uptime": "%99.9 Çalışma Süresi",
+    "uptimeDesc": "Maksimum güvenilirlik için tasarlanmış stabil altyapı.",
+    "support": "7/24 Destek",
+    "supportDesc": "İhtiyacınız olduğunda uzman destek"
+  },
+
+  "banner": {
+    "limitedOffer": "Sınırlı Süreli Teklif: Oyun Sunucusu Barındırmada %10 İndirim",
+    "promoCode": "ENDERCLOUD2.0"
+  },
+
+  "navbar": {
+    "home": "Ana Sayfa",
+    "gameHosting": "Oyun Barındırma",
+    "minecraft": "Minecraft Barındırma",
+    "vps": "VPS Barındırma",
+    "webHosting": "Web Barındırma",
+    "pricing": "Fiyatlandırma",
+    "support": "Destek",
+    "login": "Giriş Yap",
+    "termsOfService": "Hizmet Şartları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "refundPolicy": "İade Politikası",
+    "knowledgebase": "Bilgi Bankası",
+    "discord": "Discord Botu",
+    "clientSpace": "Müşteri Alanı"
+  },
+
+  "pricingSection": {
+    "title": "Basit ve Şeffaf",
+    "titleHighlight": "Fiyatlandırma",
+    "description": "İhtiyaçlarınıza uygun barındırma planını seçin. Gizli ücret yok.",
+    "footerText": "Özel bir plana mı ihtiyacınız var?",
+    "footerLinkText": "Bize Ulaşın"
+  },
+
+  "pricingPlans": {
+    "gameServers": {
+      "title": "Oyun Sunucuları",
+      "description": "Minecraft ve popüler oyunlar için optimize edilmiş barındırma.",
+      "features": {
+        "instantDeployment": "Anında Dağıtım",
+        "ddosProtection": "DDoS Koruması",
+        "support247": "7/24 Destek",
+        "customConfigurations": "Özel Yapılandırmalar",
+        "modSupport": "Tam Mod Desteği"
+      },
+      "buttonText": "Planları Gör"
+    },
+
+    "dbServers": {
+      "title": "Veritabanı Sunucuları",
+      "description": "Yüksek performanslı, yönetilen veritabanı barındırma.",
+      "features": {
+        "bareMetalPerformance": "Bare Metal Performansı",
+        "customHardware": "Özel Donanım",
+        "enterpriseSupport": "Kurumsal Destek",
+        "advancedSecurity": "Gelişmiş Güvenlik",
+        "managedServices": "Tam Yönetilen Hizmetler"
+      },
+      "buttonText": "Planları Gör"
+    },
+
+    "botHosting": {
+      "title": "Bot Barındırma",
+      "description": "Discord ve otomasyon botları için güvenilir barındırma.",
+      "features": {
+        "ssdStorage": "SSD Depolama",
+        "uptime": "%99.9 Çalışma Süresi",
+        "support247": "7/24 Destek",
+        "freeSSL": "Ücretsiz SSL",
+        "dailyBackups": "Günlük Yedekler"
+      },
+      "buttonText": "Botu Dağıt"
+    },
+
+    "vpsHosting": {
+      "title1": "Başlangıç VPS",
+      "title2": "Gelişmiş VPS",
+      "title3": "Pro VPS",
+      "description": "Tam kontrol ile yüksek performanslı VPS barındırma.",
+      "features": {
+        "fullRootAccess": "Tam Root Erişimi",
+        "ssdStorage": "NVMe SSD Depolama",
+        "uptime": "%99.9 Çalışma Süresi",
+        "multipleOS": "Birden Fazla OS Desteği",
+        "backupIncluded": "Yedek Dahil"
+      },
+      "buttonText": "VPS Satın Al"
+    }
+  },
+
+  "features": {
+    "badge": "Neden Bizi Seçmelisiniz",
+    "title": "Güçlü Özellikler",
+    "subtitle": "Güvenilir barındırma için ihtiyacınız olan her şey",
+
+    "highPerformance": "Yüksek Performans",
+    "highPerformanceDesc": "Maksimum hız için en yeni donanım.",
+
+    "lowLatency": "Düşük Gecikme",
+    "lowLatencyDesc": "Akıcı oyun deneyimi için ultra düşük gecikmeli ağ.",
+
+    "advancedSecurity": "Gelişmiş Güvenlik",
+    "advancedSecurityDesc": "Verilerinizi korumak için çok katmanlı güvenlik.",
+
+    "autoRecovery": "Otomatik Kurtarma",
+    "autoRecoveryDesc": "Minimum kesinti için otomatik kurtarma.",
+
+    "fullControl": "Tam Kontrol",
+    "fullControlDesc": "Sunucularınız üzerinde tam kontrol.",
+
+    "resourceScaling": "Kaynak Ölçeklendirme",
+    "resourceScalingDesc": "İhtiyacınız arttıkça kaynakları dilediğiniz zaman ölçeklendirin.",
+
+    "globalNetwork": "Küresel Ağ",
+    "globalNetworkDesc": "En iyi performans için dünya çapında sunucular."
+  },
+
+  "locations": {
+    "title": "Küresel Konumlar",
+    "badge": "Küresel Altyapı",
+    "subtitle": "En iyi performans ve düşük gecikme için stratejik olarak konumlandırılmış sunucular"
+  },
+
+  "panelShowcase": {
+    "badge": "Kontrol Paneli",
+    "title": "Modern Kontrol Paneli",
+    "description": "Güçlü ve sezgisel panelimizle sunucularınızı kolayca yönetin."
+  },
+
+  "discordBanner": {
+    "title": "Discord Sunucumuza Katılın",
+    "subtitle": "Topluluk ve Destek",
+    "description": "Destek, güncellemeler ve duyurular için Discord sunucumuza katılın."
+  },
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Bilmeniz gereken her şey",
+
+    "question1": "Hangi oyunları destekliyorsunuz?",
+    "answer1": "Minecraft (Java ve Bedrock), Discord botları, VPS uygulamaları ve birçok popüler sunucuyu destekliyoruz.",
+
+    "question2": "DDoS koruması sağlıyor musunuz?",
+    "answer2": "Evet, tüm hizmetlerimiz gelişmiş kurumsal düzeyde DDoS koruması içerir.",
+
+    "question3": "Planımı daha sonra yükseltebilir miyim?",
+    "answer3": "Evet, faturalandırma panelinden istediğiniz zaman veri kaybı olmadan planınızı yükseltebilir veya düşürebilirsiniz.",
+
+    "question4": "İade sunuyor musunuz?",
+    "answer4": "İadeler, iade politikamıza uygun olarak sağlanır.",
+
+    "question5": "Sunucu kurulumu ne kadar hızlı?",
+    "answer5": "Ödeme sonrası sunucunuz saniyeler içinde otomatik olarak kurulur."
+  },
+
+  "tools": {
+    "title": "Araçlar"
+  },
+
+  "footer": {
+    "description": "AstroNodes, kurumsal düzeyde güvenlik ile güvenilir ve yüksek performanslı oyun ve VPS barındırma hizmeti sunar.",
+
+    "quickLinks": "Hızlı Bağlantılar",
+    "gamePanel": "Oyun Paneli",
+    "billingpanel": "Faturalandırma Paneli",
+    "uptime": "Çalışma Durumu",
+    "trustpilot": "Trustpilot",
+    "branding": "Markalaşma",
+    "partners": "Ortaklar",
+
+    "legal": "Yasal",
+    "brandingguidelines": "Marka Yönergeleri",
+
+    "subdomain": "Ücretsiz Alt Alan Adı",
+    "mcstatus": "Minecraft Durumu",
+    "motd": "MOTD Oluşturucu",
+
+    "contactUs": "Bize Ulaşın",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "gamepanel": "Oyun Paneli",
+
+    "systemsOperational": "Tüm Sistemler Çalışıyor"
+  }
+}

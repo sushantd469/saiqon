@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "titlePrefix": "Hochleistungs",
+    "titleSuffix": "Server Hosting",
+    "description": "Leistungsstarkes, schnelles und zuverlässiges Hosting für Minecraft, Games und VPS mit sofortiger Einrichtung und Schutz auf Enterprise-Niveau.",
+    "getStarted": "Jetzt starten",
+    "getStartedFree": "Kostenlos starten",
+
+    "instantSetup": "Sofortige Einrichtung",
+    "instantSetupDesc": "Stellen Sie Ihren Server sofort mit nur einem Klick bereit – ohne Wartezeit.",
+
+    "ddosProtection": "Erweiterter DDoS-Schutz",
+    "ddosProtectionDesc": "Schutz auf Enterprise-Niveau, damit Ihre Server rund um die Uhr online bleiben.",
+
+    "uptime": "99,9% Verfügbarkeit",
+    "uptimeDesc": "Stabile Infrastruktur für maximale Zuverlässigkeit.",
+    "support": "24/7 Support",
+    "supportDesc": "Expertenhilfe jederzeit verfügbar"
+  },
+
+  "banner": {
+    "limitedOffer": "Zeitlich begrenztes Angebot: Spare 10 % auf Game-Server-Hosting",
+    "promoCode": "ENDERCLOUD2.0"
+  },
+
+  "navbar": {
+    "home": "Startseite",
+    "gameHosting": "Game Hosting",
+    "minecraft": "Minecraft Hosting",
+    "vps": "VPS Hosting",
+    "webHosting": "Webhosting",
+    "pricing": "Preise",
+    "support": "Support",
+    "login": "Anmelden",
+    "termsOfService": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "refundPolicy": "Rückerstattungsrichtlinie",
+    "knowledgebase": "Wissensdatenbank",
+    "discord": "Discord Bot",
+    "clientSpace": "Kundenbereich"
+  },
+
+  "pricingSection": {
+    "title": "Einfach & Transparent",
+    "titleHighlight": "Preise",
+    "description": "Wählen Sie den Hosting-Plan, der zu Ihren Anforderungen passt – ohne versteckte Kosten.",
+    "footerText": "Benötigen Sie einen individuellen Plan?",
+    "footerLinkText": "Kontaktieren Sie uns"
+  },
+
+  "pricingPlans": {
+    "gameServers": {
+      "title": "Game Server",
+      "description": "Optimiertes Hosting für Minecraft und beliebte Spiele.",
+      "features": {
+        "instantDeployment": "Sofortige Bereitstellung",
+        "ddosProtection": "DDoS-Schutz",
+        "support247": "24/7 Support",
+        "customConfigurations": "Individuelle Konfigurationen",
+        "modSupport": "Vollständige Mod-Unterstützung"
+      },
+      "buttonText": "Pläne ansehen"
+    },
+
+    "dbServers": {
+      "title": "Datenbank-Server",
+      "description": "Hochleistungsfähiges, verwaltetes Datenbank-Hosting.",
+      "features": {
+        "bareMetalPerformance": "Bare-Metal-Leistung",
+        "customHardware": "Individuelle Hardware",
+        "enterpriseSupport": "Enterprise-Support",
+        "advancedSecurity": "Erweiterte Sicherheit",
+        "managedServices": "Vollständig verwaltete Services"
+      },
+      "buttonText": "Pläne ansehen"
+    },
+
+    "botHosting": {
+      "title": "Bot Hosting",
+      "description": "Zuverlässiges Hosting für Discord-Bots und Automatisierung.",
+      "features": {
+        "ssdStorage": "SSD-Speicher",
+        "uptime": "99,9% Verfügbarkeit",
+        "support247": "24/7 Support",
+        "freeSSL": "Kostenloses SSL",
+        "dailyBackups": "Tägliche Backups"
+      },
+      "buttonText": "Bot bereitstellen"
+    },
+
+    "vpsHosting": {
+      "title1": "Einsteiger VPS",
+      "title2": "Erweiterter VPS",
+      "title3": "Professioneller VPS",
+      "description": "Leistungsstarkes VPS-Hosting mit voller Kontrolle.",
+      "features": {
+        "fullRootAccess": "Voller Root-Zugriff",
+        "ssdStorage": "NVMe SSD-Speicher",
+        "uptime": "99,9% Verfügbarkeit",
+        "multipleOS": "Mehrere Betriebssysteme",
+        "backupIncluded": "Backup inklusive"
+      },
+      "buttonText": "VPS kaufen"
+    }
+  },
+
+  "features": {
+    "badge": "Warum wir",
+    "title": "Leistungsstarke Funktionen",
+    "subtitle": "Alles, was Sie für zuverlässiges Hosting benötigen",
+
+    "highPerformance": "Hohe Leistung",
+    "highPerformanceDesc": "Neueste Hardware für maximale Geschwindigkeit.",
+
+    "lowLatency": "Geringe Latenz",
+    "lowLatencyDesc": "Niedrige Netzwerklatenz für flüssiges Gameplay.",
+
+    "advancedSecurity": "Erweiterte Sicherheit",
+    "advancedSecurityDesc": "Mehrschichtiger Schutz für Ihre Daten.",
+
+    "autoRecovery": "Automatische Wiederherstellung",
+    "autoRecoveryDesc": "Automatische Wiederherstellung zur Minimierung von Ausfallzeiten.",
+
+    "fullControl": "Volle Kontrolle",
+    "fullControlDesc": "Vollständige Kontrolle über Ihre Server.",
+
+    "resourceScaling": "Ressourcen-Skalierung",
+    "resourceScalingDesc": "Skalieren Sie Ressourcen jederzeit nach Bedarf.",
+
+    "globalNetwork": "Globales Netzwerk",
+    "globalNetworkDesc": "Server weltweit für beste Leistung."
+  },
+
+  "locations": {
+    "title": "Globale Standorte",
+    "badge": "Globale Infrastruktur",
+    "subtitle": "Strategisch verteilte Server für beste Performance und minimale Latenz"
+  },
+
+  "panelShowcase": {
+    "badge": "Control Panel",
+    "title": "Modernes Control Panel",
+    "description": "Verwalten Sie Ihre Server einfach mit unserem leistungsstarken und intuitiven Panel."
+  },
+
+  "discordBanner": {
+    "title": "Trete unserem Discord bei",
+    "subtitle": "Community & Support",
+    "description": "Treten Sie unserem Discord-Server für Support, Updates und Ankündigungen bei."
+  },
+
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was Sie wissen müssen",
+
+    "question1": "Welche Spiele unterstützt ihr?",
+    "answer1": "Wir unterstützen Minecraft (Java & Bedrock), Discord-Bots, VPS-Anwendungen und viele weitere gängige Server.",
+
+    "question2": "Bietet ihr DDoS-Schutz an?",
+    "answer2": "Ja, alle unsere Services beinhalten erweiterten DDoS-Schutz auf Enterprise-Niveau.",
+
+    "question3": "Kann ich meinen Plan später upgraden?",
+    "answer3": "Ja, Sie können Ihren Plan jederzeit über das Abrechnungspanel upgraden oder downgraden – ohne Datenverlust.",
+
+    "question4": "Bietet ihr Rückerstattungen an?",
+    "answer4": "Rückerstattungen erfolgen gemäß unserer Rückerstattungsrichtlinie.",
+
+    "question5": "Wie schnell wird der Server eingerichtet?",
+    "answer5": "Der Server wird innerhalb von Sekunden nach der Zahlung sofort eingerichtet."
+  },
+
+  "tools": {
+    "title": "Tools"
+  },
+
+  "footer": {
+    "description": "AstroNodes bietet zuverlässiges und leistungsstarkes Game- und VPS-Hosting mit Sicherheit auf Enterprise-Niveau.",
+
+    "quickLinks": "Schnelllinks",
+    "gamePanel": "Game Panel",
+    "billingpanel": "Abrechnungspanel",
+    "uptime": "Systemstatus",
+    "trustpilot": "Trustpilot",
+    "branding": "Branding",
+    "partners": "Partner",
+
+    "legal": "Rechtliches",
+    "brandingguidelines": "Branding-Richtlinien",
+
+    "subdomain": "Kostenlose Subdomain",
+    "mcstatus": "Minecraft-Status",
+    "motd": "MOTD-Generator",
+
+    "contactUs": "Kontakt",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "gamepanel": "Game Panel",
+
+    "systemsOperational": "Alle Systeme betriebsbereit"
+  }
+}

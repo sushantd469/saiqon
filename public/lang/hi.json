@@ -1,0 +1,201 @@
+{
+  "hero": {
+    "titlePrefix": "उच्च प्रदर्शन",
+    "titleSuffix": "सर्वर होस्टिंग",
+    "description": "शक्तिशाली, तेज़ और विश्वसनीय Minecraft, गेम और VPS होस्टिंग – तुरंत सेटअप और एंटरप्राइज-ग्रेड सुरक्षा के साथ।",
+    "getStarted": "शुरू करें",
+    "getStartedFree": "मुफ़्त में शुरू करें",
+
+    "instantSetup": "तुरंत सेटअप",
+    "instantSetupDesc": "एक क्लिक में अपना सर्वर तुरंत डिप्लॉय करें।",
+
+    "ddosProtection": "उन्नत DDoS सुरक्षा",
+    "ddosProtectionDesc": "आपके सर्वर को 24/7 ऑनलाइन रखने के लिए एंटरप्राइज-लेवल सुरक्षा।",
+
+    "uptime": "99.9% अपटाइम",
+    "uptimeDesc": "अधिकतम स्थिरता के लिए डिज़ाइन किया गया इंफ्रास्ट्रक्चर।",
+    "support": "24/7 सपोर्ट",
+    "supportDesc": "जब भी ज़रूरत हो विशेषज्ञ सहायता"
+  },
+
+  "banner": {
+    "limitedOffer": "सीमित समय का ऑफ़र: गेम सर्वर होस्टिंग पर 10% की बचत",
+    "promoCode": "ENDERCLOUD2.0"
+  },
+
+  "navbar": {
+    "home": "होम",
+    "gameHosting": "गेम होस्टिंग",
+    "minecraft": "Minecraft होस्टिंग",
+    "vps": "VPS होस्टिंग",
+    "webHosting": "वेब होस्टिंग",
+    "pricing": "मूल्य",
+    "support": "सपोर्ट",
+    "login": "लॉगिन",
+    "termsOfService": "सेवा की शर्तें",
+    "privacyPolicy": "गोपनीयता नीति",
+    "refundPolicy": "रिफंड नीति",
+    "knowledgebase": "नॉलेज बेस",
+    "discord": "Discord बॉट",
+    "clientSpace": "क्लाइंट स्पेस"
+  },
+
+  "pricingSection": {
+    "title": "सरल और पारदर्शी",
+    "titleHighlight": "मूल्य निर्धारण",
+    "description": "अपनी ज़रूरत के अनुसार होस्टिंग प्लान चुनें। कोई छुपा शुल्क नहीं।",
+    "footerText": "कस्टम प्लान चाहिए?",
+    "footerLinkText": "संपर्क करें"
+  },
+
+  "pricingPlans": {
+    "gameServers": {
+      "title": "गेम सर्वर",
+      "description": "Minecraft और लोकप्रिय गेम्स के लिए ऑप्टिमाइज़्ड होस्टिंग।",
+      "features": {
+        "instantDeployment": "तुरंत डिप्लॉयमेंट",
+        "ddosProtection": "DDoS सुरक्षा",
+        "support247": "24/7 सपोर्ट",
+        "customConfigurations": "कस्टम कॉन्फ़िगरेशन",
+        "modSupport": "पूर्ण मॉड सपोर्ट"
+      },
+      "buttonText": "प्लान देखें"
+    },
+
+    "dbServers": {
+      "title": "डेटाबेस सर्वर",
+      "description": "उच्च प्रदर्शन मैनेज्ड डेटाबेस होस्टिंग।",
+      "features": {
+        "bareMetalPerformance": "बेयर मेटल प्रदर्शन",
+        "customHardware": "कस्टम हार्डवेयर",
+        "enterpriseSupport": "एंटरप्राइज सपोर्ट",
+        "advancedSecurity": "उन्नत सुरक्षा",
+        "managedServices": "पूरी तरह मैनेज्ड सेवाएँ"
+      },
+      "buttonText": "प्लान देखें"
+    },
+
+    "botHosting": {
+      "title": "बॉट होस्टिंग",
+      "description": "Discord और ऑटोमेशन बॉट्स के लिए विश्वसनीय होस्टिंग।",
+      "features": {
+        "ssdStorage": "SSD स्टोरेज",
+        "uptime": "99.9% अपटाइम",
+        "support247": "24/7 सपोर्ट",
+        "freeSSL": "मुफ़्त SSL",
+        "dailyBackups": "दैनिक बैकअप"
+      },
+      "buttonText": "बॉट डिप्लॉय करें"
+    },
+
+    "vpsHosting": {
+      "title1": "स्टार्टर VPS",
+      "title2": "एडवांस्ड VPS",
+      "title3": "प्रो VPS",
+      "description": "पूर्ण नियंत्रण के साथ उच्च प्रदर्शन VPS होस्टिंग।",
+      "features": {
+        "fullRootAccess": "पूर्ण रूट एक्सेस",
+        "ssdStorage": "NVMe SSD स्टोरेज",
+        "uptime": "99.9% अपटाइम",
+        "multipleOS": "मल्टी OS सपोर्ट",
+        "backupIncluded": "बैकअप शामिल"
+      },
+      "buttonText": "VPS खरीदें"
+    }
+  },
+
+  "features": {
+    "badge": "हमें क्यों चुनें",
+    "title": "शक्तिशाली फीचर्स",
+    "subtitle": "विश्वसनीय होस्टिंग के लिए सब कुछ",
+
+    "highPerformance": "उच्च प्रदर्शन",
+    "highPerformanceDesc": "अधिकतम गति के लिए नवीनतम हार्डवेयर।",
+
+    "lowLatency": "कम लेटेंसी",
+    "lowLatencyDesc": "स्मूथ गेमप्ले के लिए अल्ट्रा-लो लेटेंसी नेटवर्क।",
+
+    "advancedSecurity": "उन्नत सुरक्षा",
+    "advancedSecurityDesc": "आपके डेटा की सुरक्षा के लिए कई परतें।",
+
+    "autoRecovery": "ऑटो रिकवरी",
+    "autoRecoveryDesc": "न्यूनतम डाउनटाइम के लिए स्वचालित रिकवरी।",
+
+    "fullControl": "पूर्ण नियंत्रण",
+    "fullControlDesc": "अपने सर्वर पर पूरा नियंत्रण।",
+
+    "resourceScaling": "रिसोर्स स्केलिंग",
+    "resourceScalingDesc": "ज़रूरत बढ़ने पर कभी भी संसाधन बढ़ाएँ।",
+
+    "globalNetwork": "वैश्विक नेटवर्क",
+    "globalNetworkDesc": "बेहतर प्रदर्शन के लिए दुनिया भर में सर्वर।"
+  },
+
+  "locations": {
+    "title": "वैश्विक लोकेशन्स",
+    "badge": "वैश्विक इंफ्रास्ट्रक्चर",
+    "subtitle": "बेहतर प्रदर्शन और कम लेटेंसी के लिए रणनीतिक रूप से स्थित सर्वर"
+  },
+
+  "panelShowcase": {
+    "badge": "कंट्रोल पैनल",
+    "title": "आधुनिक कंट्रोल पैनल",
+    "description": "हमारे शक्तिशाली और सहज पैनल से सर्वर आसानी से मैनेज करें।"
+  },
+
+  "discordBanner": {
+    "title": "हमारे Discord से जुड़ें",
+    "subtitle": "कम्युनिटी और सपोर्ट",
+    "description": "सपोर्ट, अपडेट और घोषणाओं के लिए हमारे Discord सर्वर से जुड़ें।"
+  },
+
+  "faq": {
+    "title": "अक्सर पूछे जाने वाले प्रश्न",
+    "subtitle": "वह सब कुछ जो आपको जानना चाहिए",
+
+    "question1": "आप कौन-कौन से गेम्स सपोर्ट करते हैं?",
+    "answer1": "हम Minecraft (Java और Bedrock), Discord बॉट्स, VPS एप्लिकेशन और कई अन्य लोकप्रिय सर्वर सपोर्ट करते हैं।",
+
+    "question2": "क्या आप DDoS सुरक्षा प्रदान करते हैं?",
+    "answer2": "हाँ, सभी सेवाओं में उन्नत एंटरप्राइज-ग्रेड DDoS सुरक्षा शामिल है।",
+
+    "question3": "क्या मैं बाद में प्लान अपग्रेड कर सकता हूँ?",
+    "answer3": "हाँ, आप बिलिंग पैनल से कभी भी बिना डेटा खोए प्लान बदल सकते हैं।",
+
+    "question4": "क्या आप रिफंड देते हैं?",
+    "answer4": "हमारी रिफंड नीति के अनुसार रिफंड उपलब्ध है।",
+
+    "question5": "सर्वर सेटअप कितना तेज़ है?",
+    "answer5": "भुगतान के बाद सर्वर कुछ ही सेकंड में सेटअप हो जाता है।"
+  },
+
+  "tools": {
+    "title": "टूल्स"
+  },
+
+  "footer": {
+    "description": "AstroNodes एंटरप्राइज-ग्रेड सुरक्षा के साथ विश्वसनीय और उच्च प्रदर्शन होस्टिंग प्रदान करता है।",
+
+    "quickLinks": "त्वरित लिंक",
+    "gamePanel": "गेम पैनल",
+    "billingpanel": "बिलिंग पैनल",
+    "uptime": "अपटाइम स्थिति",
+    "trustpilot": "Trustpilot",
+    "branding": "ब्रांडिंग",
+    "partners": "पार्टनर्स",
+
+    "legal": "कानूनी",
+    "brandingguidelines": "ब्रांडिंग दिशानिर्देश",
+
+    "subdomain": "मुफ़्त सबडोमेन",
+    "mcstatus": "Minecraft स्थिति",
+    "motd": "MOTD जनरेटर",
+
+    "contactUs": "संपर्क करें",
+    "email": "ईमेल",
+    "phone": "फोन",
+    "gamepanel": "गेम पैनल",
+
+    "systemsOperational": "सभी सिस्टम चालू हैं"
+  }
+}
