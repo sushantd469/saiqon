@@ -104,7 +104,7 @@
                     duration: .6
                   }, className: "lg:col-span-1", children: [(0, a.jsx)("div", {
                       className: "mb-6", children: (0, a.jsx)(s.default, {
-                        href: "/meta/logo.png", alt: "Endercloud Logo", width: 200, height: 60, className: "h-12 w-auto"
+                        "href":"/logo.png", alt: "Endercloud Logo", width: 200, height: 60, className: "h-12 w-auto"
                       })}), (0, a.jsx)("p", {
                       className: "text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-6", children: e("footer.description")}), (0, a.jsx)("div", {
                       className: "flex space-x-3 mt-6", children: f.map((e, t)=>(0, a.jsx)("a", {
